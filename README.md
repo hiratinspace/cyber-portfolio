@@ -23,6 +23,7 @@ This repository documents my hands-on cybersecurity learning, labs, detections, 
 - `/writeups` — Sanitized learning notes
 
 ## Tools & Technologies
+- VMware Fusion 13
 - Kali Linux (XFCE)
 - Windows 11
 - Sysmon
