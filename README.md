@@ -14,6 +14,10 @@ This repository documents my hands-on cybersecurity learning, labs, detections, 
 - 🔍 Security Monitoring Lab (Windows + Sysmon)
 - 🚨 Incident Investigation: Brute Force Login
 - 🧪 Detection Engineering with Sysmon
+- 🔎 Encoded PowerShell Execution (Sysmon)
+- 🧬 LOLBin Abuse via rundll32.exe
+- 🔐 Brute Force Login Detection
+
 
 ## Repository Structure
 - `/labs` — Lab setups, VM diagrams, environment notes
