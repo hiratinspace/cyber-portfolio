@@ -1,7 +1,8 @@
 ```md
 # Cybersecurity Portfolio
 
-This repository documents my hands-on cybersecurity learning, labs, detections, and incident investigations.
+This repository documents my hands-on cybersecurity learning, labs, detections,
+and incident investigations.
 
 ## What I’m Learning
 - Security monitoring & detection engineering
@@ -34,5 +35,3 @@ This repository documents my hands-on cybersecurity learning, labs, detections, 
 - Event Viewer
 - Git & GitHub
 
----
-*This repository is for educational purposes only.*
