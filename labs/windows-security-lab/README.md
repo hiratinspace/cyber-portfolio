@@ -4,7 +4,7 @@
 Set up a Windows virtual machine to collect and analyze security logs using Sysmon and Event Viewer.
 
 ## Environment
-- Windows 11 (VMware)
+- Windows 11 (VMware Fusion)
 - Sysmon
 - Event Viewer
 
@@ -18,4 +18,6 @@ Set up a Windows virtual machine to collect and analyze security logs using Sysm
 - Investigated suspicious behavior
 
 ## Screenshots
-
+- 1_failed_logon _spike.png
+- 2_sucess_after_failures.png
+- 3_suspicious_powershell.png
